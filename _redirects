@@ -1,7 +1,29 @@
 # blog.getdbt.com -> getdbt.com/blog/ redirects
-
-# Categories
-
+/author/lauren/ https://www.getdbt.com/author/lauren-craigie/ 301!
+/author/rosie/ https://www.getdbt.com/author/rosie-sampaio-cardoso/ 301!
+/author/azzam/ https://www.getdbt.com/author/azzam-aijazi/ 301!
+/author/sai/ https://www.getdbt.com/author/sai-maddali/ 301!
+/author/alexis/ https://www.getdbt.com/author/alexis-baird/ 301!
+/author/nikhil/ https://www.getdbt.com/author/nikhil-kothari/ 301!
+/author/christine/ https://www.getdbt.com/author/christine-berger/ 301!
+/author/julia/ https://www.getdbt.com/author/julia-schottenstein/ 301!
+/author/jerco/ https://www.getdbt.com/author/jeremy-cohen/ 301!
+/author/tristan/ https://www.getdbt.com/author/tristan-handy/ 301!
+/author/mila/ https://www.getdbt.com/author/mila-page/ 301!
+/author/anna/ https://www.getdbt.com/author/anna-filippova/ 301!
+/author/meghan/ https://www.getdbt.com/author/meghan-colon/ 301!
+/author/simon/ https://www.getdbt.com/author/simon-ouderkirk/ 301!
+/author/claire/ https://www.getdbt.com/author/claire-carroll/ 301!
+/author/drew/ https://www.getdbt.com/author/drew-banin/ 301!
+/author/emilie/ https://www.getdbt.com/author/emilie-schario/ 301!
+/author/danielle/ https://www.getdbt.com/author/danielle-leong/ 301!
+/author/andrea/ https://www.getdbt.com/author/andrea-/ 301!
+/author/erin/ https://www.getdbt.com/author/erin-vaughan/ 301!
+/author/erica/ https://www.getdbt.com/author/erica-louie/ 301!
+/author/connor/ https://www.getdbt.com/author/connor-mcarthur/ 301!
 # Authors
+/author/*   https://www.getdbt.com/author/:splat     301!
+# Categories
+/tag/*      https://www.getdbt.com/category/:splat   301!
 # All blog posts
-/*     https://www.getdbt.com/blog/:splat     301!
+/*          https://www.getdbt.com/blog/:splat       301!
