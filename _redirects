@@ -21,9 +21,74 @@
 /author/erin/ https://www.getdbt.com/author/erin-vaughan/ 301!
 /author/erica/ https://www.getdbt.com/author/erica-louie/ 301!
 /author/connor/ https://www.getdbt.com/author/connor-mcarthur/ 301!
+# old Medium + Ghost posts thatve been previously moved
+/hiring-analytics-engineer/	https://www.getdbt.com/data-teams/hiring-analytics-engineer/
+/what-is-an-analytics-engineer/	https://www.getdbt.com/what-is-analytics-engineering/
+/data-team-structure-examples/	https://www.getdbt.com/data-teams/data-org-structure-examples/
+/does-my-startup-data-team-need-a-data-engineer-/	https://www.getdbt.com/data-teams/hiring-data-engineer/
+/does-my-startup-data-team-need-a-data-engineer-b6f4d68d7da9/	https://www.getdbt.com/data-teams/hiring-data-engineer/
+/does-my-startup-data-team-need-a-data-engineer/	https://www.getdbt.com/data-teams/hiring-data-engineer/
+/what--exactly--is-dbt-/	https://getdbt.com/blog/what-exactly-is-dbt/
+/what-exactly-is-dbt-47ba57309068/	https://getdbt.com/blog/what-exactly-is-dbt/
+/what-are-the-steps---tools-in-setting-up-a-modern--saas-based-bi-infrastructure-/	https://getdbt.com/blog/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure/
+/is-looker-the-right-business-intelligence-tool-for-my-company-/	https://getdbt.com/blog/is-looker-the-right-business-intelligence-tool-for-my-company/
+/what-s-in-a-name-/	https://getdbt.com/blog/whats-in-a-name/
+/how-we-made-dbt-runs-30--faster/	https://getdbt.com/blog/how-we-made-dbt-runs-30-faster/
+/-how-do-you-decide-what-to-model-in-dbt-vs-lookml--/	https://getdbt.com/blog/how-do-you-decide-what-to-model-in-dbt-vs-lookml/
+/one-year-in--we-re-still-in-business/	https://getdbt.com/blog/one-year-in-we-re-still-in-business/
+/why-doesn-t-dbt-support-python-/	https://getdbt.com/blog/why-doesn-t-dbt-support-python/
+/five-principles-that-will-keep-your-data-warehouse-organized-9c3d29caf6ce	https://getdbt.com/blog/five-principles-that-will-keep-your-data-warehouse-organized/
+/dbt-v0-14-0-better-serving-our-users-bf7cdbbcd5d2	https://getdbt.com/blog/dbt-v0-14-0-better-serving-our-users/
+/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt-73cfb7aea718	https://getdbt.com/blog/how-monzo-the-uks-favorite-mobile-only-bank-is-rolling-out-dbt/
+/why-we-build-singer-taps-for-our-clients-e5aa81370131	https://getdbt.com/blog/
+/welcome-to-fishtown-analytics-65da7bab9903	https://getdbt.com/blog/welcome-to-fishtown-analytics/
+/welcome-to-fishtown-1556f74d5fee	https://getdbt.com/blog/welcome-to-fishtown/
+/analytics-tools-vs-people-a48beb83d697	https://getdbt.com/blog/
+/analytics-is-a-trade-2cabf5d33be3	https://getdbt.com/blog/analytics-is-a-trade/
+/goodbye-rjmetrics-hello-fishtown-analytics-3fa0ae00e9cd	https://getdbt.com/blog/goodbye-rjmetrics-hello-fishtown-analytics/
+/analysts-need-collaboration-workflow-tools-stat-92aa8501a0d7	https://getdbt.com/blog/
+/building-a-mature-analytics-workflow-the-analyst-collective-viewpoint-7653473ef05b	https://getdbt.com/blog/building-a-mature-analytics-workflow/
+/whats-in-a-name-d880c130f36f	https://getdbt.com/blog/what-s-in-a-name-/
+/three-years-in-things-are-heating-up-2a72110d161d	https://getdbt.com/blog/three-years-in-things-are-heating-up/
+/a-wave-of-acquisitions-in-business-intelligence-93ef319089d8	https://getdbt.com/blog/a-wave-of-acquisitions-in-business-intelligence/
+/how-to-unnest-arrays-in-redshift-d4fd15f87656	https://getdbt.com/blog/how-to-unnest-arrays-in-redshift/
+/pricing-vision-fit-513575238558	https://getdbt.com/blog/pricing-vision-fit/
+/dbt-learn-analytics-engineering-for-data-analysts-2a55815b9707	https://getdbt.com/blog/dbt-learn-analytics-engineering-for-data-analysts/
+/how-we-configure-snowflake-fc13f1eb36c4	https://getdbt.com/blog/how-we-configure-snowflake/
+/is-dbt-the-right-tool-for-my-data-transformations-1d2d1aa80de3	https://getdbt.com/blog/is-dbt-the-right-tool-for-my-data-transformations/
+/introducing-dbt-cloud-579df57e24d8	https://getdbt.com/blog/introducing-dbt-cloud/
+/how-we-made-dbt-runs-30-faster-64b91db3f9c5	https://getdbt.com/blog/how-we-made-dbt-runs-30-faster/
+/scaling-knowledge-160f9f5a9b6c	https://getdbt.com/blog/scaling-knowledge/
+/using-dbt-docs-fae6137da3c3	https://getdbt.com/blog/using-dbt-docs/
+/data-warehouse-design-with-dbt-0-10-2-e58380ee88b7	https://getdbt.com/blog/data-warehouse-design-with-dbt-0-10-2/
+/sinter-release-notes-august-2018-pull-request-builder-fine-grained-github-permissions-and-more-ad0bcd091f5f	https://getdbt.com/blog/sinter-release-notes-august-2018-pull-request-builder-fine-grained-github-permissions-and-more/
+/two-years-in-and-its-just-getting-good-26c5c133c4b9	https://getdbt.com/blog/two-years-in-and-it-s-just-getting-good/
+/one-analysts-guide-for-going-from-good-to-great-6697e67e37d9	https://getdbt.com/blog/one-analysts-guide-for-going-from-good-to-great/
+/how-to-safely-convert-strings-to-integers-in-redshift-a4d7aa39c70	https://getdbt.com/blog/how-to-safely-convert-strings-to-integers-in-redshift/
+/on-two-years-of-dbt-6fcdff942d4d	https://getdbt.com/blog/on-two-years-of-dbt/
+/how-do-you-decide-what-to-model-in-dbt-vs-lookml-dca4c79e2304	https://getdbt.com/blog/how-do-you-decide-what-to-model-in-dbt-vs-lookml/
+/how-to-integrate-dbt-and-looker-with-user-attributes-117fa48c1568	https://getdbt.com/blog/how-to-integrate-dbt-and-looker-with-user-attributes/
+/using-redshifts-late-binding-views-with-dbt-e735d80f9cfc	https://getdbt.com/blog/using-redshift-s-late-binding-views-with-dbt/
+/how-to-design-your-looker-explores-171e28465add	https://getdbt.com/blog/how-to-design-your-looker-explores/
+/the-missing-layers-of-the-analytics-stack-af420e6214bd	https://getdbt.com/blog/the-missing-layers-of-the-analytics-stack/
+/installing-dbt-packages-83e28210f4e6	https://getdbt.com/blog/installing-dbt-packages/
+/whats-new-in-dbt-0-9-0-dd36f3572ac6	https://getdbt.com/blog/what-s-new-in-dbt-0-9-0/
+/analytics-playbook-log-tables-7df0e6aacb42	https://getdbt.com/blog/analytics-playbook-log-tables/
+/why-doesnt-dbt-support-python-4677caea5cab	https://getdbt.com/blog/why-doesn-t-dbt-support-python/
+/one-year-in-were-still-in-business-41f959938c70	https://getdbt.com/blog/one-year-in-we-re-still-in-business/
+/the-most-underutilized-function-in-sql-9279b536ed1a	https://getdbt.com/blog/the-most-underutilized-function-in-sql/
+/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure-281e0860f9a9	https://getdbt.com/blog/what-are-the-steps-tools-in-setting-up-a-modern-saas-based-bi-infrastructure/
+/is-looker-the-right-business-intelligence-tool-for-my-company-afc1f750a0f9	https://getdbt.com/blog/is-looker-the-right-business-intelligence-tool-for-my-company/
+/its-time-for-open-source-analytics-194902ae5c5	https://getdbt.com/blog/it-s-time-for-open-source-analytics/
+/analyzing-your-mailchimp-data-part-1-measuring-core-email-performance-8c45640155f9	https://getdbt.com/blog/
+/analyzing-your-stripe-data-part-1-measuring-subscription-mrr-603d3597e289	https://getdbt.com/blog/modeling-subscription-revenue/
 # Authors
 /author/*   https://www.getdbt.com/author/:splat     301!
 # Categories
 /tag/*      https://www.getdbt.com/category/:splat   301!
 # All blog posts
 /*          https://www.getdbt.com/blog/:splat       301!
+
+
+
+
